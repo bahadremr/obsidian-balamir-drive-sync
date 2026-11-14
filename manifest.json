@@ -1,0 +1,9 @@
+{
+  "id": "balamir-drive-sync",
+  "name": "BALAMİR Drive Sync",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Kasayı Google Drive'daki bir klasörle iki yönlü eşitler. Proje dosyaları (ArchiCAD, sunum, büyük dosyalar) bilgisayarda kalır.",
+  "author": "Bahadır",
+  "isDesktopOnly": false
+}
